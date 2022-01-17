@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Python ID",
+      "setup": "",
+      "run": "python3 -m unittest test_regex_pythonid",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Agenda",
+      "setup": "",
+      "run": "python3 -m unittest test_regex_agenda",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Phone",
+      "setup": "",
+      "run": "python3 -m unittest test_regex_phone",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "URL",
+      "setup": "",
+      "run": "python3 -m unittest test_regex_url",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
